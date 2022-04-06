@@ -1,0 +1,17 @@
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\Emarwsdl.dll.config
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\Emarwsdl.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\Emarwsdl.pdb
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\Newtonsoft.Json.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Net.Http.Formatting.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Web.Http.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Web.Http.WebHost.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\Newtonsoft.Json.xml
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Net.Http.Formatting.xml
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Web.Http.xml
+E:\WSDL_asp\Emarwsdl\Emarwsdl\bin\System.Web.Http.WebHost.xml
+E:\WSDL_asp\Emarwsdl\Emarwsdl\obj\Debug\Emarwsdl.dll
+E:\WSDL_asp\Emarwsdl\Emarwsdl\obj\Debug\Emarwsdl.pdb
+E:\WSDL_asp\Emarwsdl\Emarwsdl\obj\Debug\Emarwsdl.csprojResolveAssemblyReference.cache
+E:\CDC-Source\Emarwsdl\obj\Debug\Emarwsdl.csprojResolveAssemblyReference.cache
+E:\CDC-Source\Emarwsdl\obj\Debug\Emarwsdl.dll
+E:\CDC-Source\Emarwsdl\obj\Debug\Emarwsdl.pdb
